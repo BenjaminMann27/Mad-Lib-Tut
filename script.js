@@ -1,0 +1,1 @@
+let adjective = prompt()
